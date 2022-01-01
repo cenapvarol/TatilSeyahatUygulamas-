@@ -72,8 +72,12 @@ D:\EgitimProjeleri\TatilSeyahatUygulaması\TravelTripProje\TravelTripProje\bin\S
 D:\EgitimProjeleri\TatilSeyahatUygulaması\TravelTripProje\TravelTripProje\bin\Newtonsoft.Json.xml
 D:\EgitimProjeleri\TatilSeyahatUygulaması\TravelTripProje\TravelTripProje\bin\Antlr3.Runtime.pdb
 D:\EgitimProjeleri\TatilSeyahatUygulaması\TravelTripProje\TravelTripProje\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
-D:\EgitimProjeleri\TatilSeyahatUygulaması\TravelTripProje\TravelTripProje\obj\Debug\TravelTripProje.csproj.AssemblyReference.cache
 D:\EgitimProjeleri\TatilSeyahatUygulaması\TravelTripProje\TravelTripProje\obj\Debug\TravelTripProje.csproj.CoreCompileInputs.cache
 D:\EgitimProjeleri\TatilSeyahatUygulaması\TravelTripProje\TravelTripProje\obj\Debug\TravelTripProje.csproj.CopyComplete
 D:\EgitimProjeleri\TatilSeyahatUygulaması\TravelTripProje\TravelTripProje\obj\Debug\TravelTripProje.dll
 D:\EgitimProjeleri\TatilSeyahatUygulaması\TravelTripProje\TravelTripProje\obj\Debug\TravelTripProje.pdb
+D:\EgitimProjeleri\TatilSeyahatUygulaması\TravelTripProje\TravelTripProje\obj\Debug\TravelTripProje.csproj.AssemblyReference.cache
+D:\EgitimProjeleri\TatilSeyahatUygulaması\TravelTripProje\TravelTripProje\bin\EntityFramework.dll
+D:\EgitimProjeleri\TatilSeyahatUygulaması\TravelTripProje\TravelTripProje\bin\EntityFramework.SqlServer.dll
+D:\EgitimProjeleri\TatilSeyahatUygulaması\TravelTripProje\TravelTripProje\bin\EntityFramework.xml
+D:\EgitimProjeleri\TatilSeyahatUygulaması\TravelTripProje\TravelTripProje\bin\EntityFramework.SqlServer.xml

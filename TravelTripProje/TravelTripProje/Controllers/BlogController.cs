@@ -14,13 +14,19 @@ namespace TravelTripProje.Controllers
 
 
         Context context = new Context();
+        BlogYorum by = new BlogYorum();
         public ActionResult Index()
         {
-            var deger = context.Blogs.ToList();
-            return View(deger);
+            //var deger = context.Blogs.ToList();
+            by.Deneme1 = context.Blogs.ToList();
+            ViewBag.data = by.Deneme1;
+            ViewBag.data1 = context.Blogs.OrderByDescending(x => x.ID).Take(3).ToList();
+            //ViewBag.data1 = by.Deneme1.Take(3);
+            return View();
+            //return View(by);
         }
 
-        BlogYorum by = new BlogYorum();
+        
         public ActionResult BlogDetay(int id)
         {
             //var deger = context.Blogs.Where(x => x.ID == id).ToList();

@@ -80,3 +80,4 @@ D:\EgitimProjeleri\TatilSeyahatUygulaması\TravelTripProje\TravelTripProje\bin\E
 D:\EgitimProjeleri\TatilSeyahatUygulaması\TravelTripProje\TravelTripProje\bin\EntityFramework.SqlServer.dll
 D:\EgitimProjeleri\TatilSeyahatUygulaması\TravelTripProje\TravelTripProje\bin\EntityFramework.xml
 D:\EgitimProjeleri\TatilSeyahatUygulaması\TravelTripProje\TravelTripProje\bin\EntityFramework.SqlServer.xml
+D:\EgitimProjeleri\TatilSeyahatUygulaması\TravelTripProje\TravelTripProje\obj\Debug\TravelTripProje.csproj.AssemblyReference.cache

@@ -76,7 +76,6 @@ D:\EgitimProjeleri\TatilSeyahatUygulaması\TravelTripProje\TravelTripProje\obj\D
 D:\EgitimProjeleri\TatilSeyahatUygulaması\TravelTripProje\TravelTripProje\obj\Debug\TravelTripProje.csproj.CopyComplete
 D:\EgitimProjeleri\TatilSeyahatUygulaması\TravelTripProje\TravelTripProje\obj\Debug\TravelTripProje.dll
 D:\EgitimProjeleri\TatilSeyahatUygulaması\TravelTripProje\TravelTripProje\obj\Debug\TravelTripProje.pdb
-D:\EgitimProjeleri\TatilSeyahatUygulaması\TravelTripProje\TravelTripProje\obj\Debug\TravelTripProje.csproj.AssemblyReference.cache
 D:\EgitimProjeleri\TatilSeyahatUygulaması\TravelTripProje\TravelTripProje\bin\EntityFramework.dll
 D:\EgitimProjeleri\TatilSeyahatUygulaması\TravelTripProje\TravelTripProje\bin\EntityFramework.SqlServer.dll
 D:\EgitimProjeleri\TatilSeyahatUygulaması\TravelTripProje\TravelTripProje\bin\EntityFramework.xml

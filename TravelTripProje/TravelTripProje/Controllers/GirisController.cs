@@ -31,5 +31,10 @@ namespace TravelTripProje.Controllers
             }
             
         }
+        public ActionResult LogOut()
+        {
+            FormsAuthentication.SignOut();
+            return RedirectToAction("GirisYap", "Giris");
+        }
     }
 }
